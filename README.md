@@ -1,4 +1,4 @@
-### Hi there, I'm Ynoa,:panda_face:
+### Hi there, I'm Ynoa:panda_face:
 <p align='center'>
 <a> you can find me @: </a>&nbsp;&nbsp;
 <a href="https://dev.to/ypedroo"><img height="30" src="https://github.com/ypedroo/ypedroo/blob/master/icons/dev.png"></a>&nbsp;&nbsp;
