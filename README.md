@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Ynoa,:panda_face:
 <p align='center'>
-<a> :panda_face: I'm Ynoa, you can find me @: </a>&nbsp;&nbsp;
+<a> you can find me @: </a>&nbsp;&nbsp;
 <a href="https://dev.to/ypedroo"><img height="30" src="https://github.com/ypedroo/ypedroo/blob/master/icons/dev.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ynoapedro/"><img height="30" src="https://github.com/ypedroo/ypedroo/blob/master/icons/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ypedro32"><img height="30" src="https://github.com/ypedroo/ypedroo/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
