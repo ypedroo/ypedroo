@@ -14,7 +14,7 @@
 - :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related 
 - :dancers: Also looking for cool projectos to join and help.
 
-<img src="https://media.giphy.com/media/3o7TKEc156FfMCbAty/giphy.gif">
+<img src="https://media.giphy.com/media/3o7TKEc156FfMCbAty/giphy.gif" width="300" height="200">
 
 
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
