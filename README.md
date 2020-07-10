@@ -13,6 +13,7 @@
 - ⚡ I'm a tech lover, language agnostic but with a little bit more love for C#.
 - :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related 
 - :dancers: Also looking for cool projectos to join and help.
+- 😄 Pronouns: he/him/his
 
 <img src="https://media.giphy.com/media/3o7TKEc156FfMCbAty/giphy.gif" width="300" height="200">
 
