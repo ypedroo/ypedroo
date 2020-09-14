@@ -1,9 +1,9 @@
 ### Hi there, I'm Ynoa:panda_face:
 
 - 🔭 I’m currently working @InstitutoAtlantico
-- 🌱 I’m currently learning .NET Core and React
+- 🌱 I’m currently learning Node.js, .NET Core and React
 - 💬 I like to write sometimes on <a href="https://dev.to/ypedroo"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="20" height="20"></a>
-- ⚡ I'm a tech lover, language agnostic but with a little bit more love for C#.
+- ⚡ I'm a tech lover, and language agnostic.
 - :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related 
 - :dancers: Also looking for cool projectos to join and help.
 - 😄 Pronouns: he/him/his
