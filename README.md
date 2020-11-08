@@ -4,11 +4,11 @@
 </p>
 <p align='center'>
 <a> Places where you can find me: </a>&nbsp;&nbsp;
-  
-<a href="https://twitter.com/intent/follow?screen_name=ypedrolm"><img src="https://img.shields.io/twitter/follow/ypedrolm.svg?label=Follow%20@ypedrolm" alt="Follow @ypedrolm"></img>
+ 
 [![Devto Badge](https://img.shields.io/badge/-ypedroo-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/ypedroo/)](https://dev.to/ypedroo/)
-[![Github Badge](https://img.shields.io/github/followers/ypedroo?style=social)](https://github.com/ypedroo/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ynoapedro)](https://www.linkedin.com/in/ynoapedro)
+[![Github Badge](https://img.shields.io/github/followers/ypedroo?style=social)](https://github.com/ypedroo/)
+<a href="https://twitter.com/intent/follow?screen_name=ypedrolm"><img src="https://img.shields.io/twitter/follow/ypedrolm.svg?label=Follow%20@ypedrolm" alt="Follow @ypedrolm"></img>
 
 ### Hi there, I'm Ynoa he/him/his:panda_face:
 
