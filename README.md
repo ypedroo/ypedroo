@@ -4,9 +4,11 @@
 </p>
 <p align='center'>
 <a> Come find me @: </a>&nbsp;&nbsp;
+  
+<a href="https://twitter.com/intent/follow?screen_name=ypedrolm"><img src="https://img.shields.io/twitter/follow/ypedrolm.svg?label=Follow%20@ypedrolm" alt="Follow @ypedrolm"></img>
 
-<a href="https://twitter.com/intent/follow?screen_name=ypedrolm"><img src="https://img.shields.io/twitter/follow/cardosodev.svg?label=Follow%20@ypedrolm" alt="Follow @ypedrolm"></img>
-/github/followers/:user?label=Follow
+<a href="https://github.com/github/followers/:ypedroo?label=Follow"><img src="https://img.shields.io/github/follow/ypedroo.svg?label=Follow%20@ypedroo" alt="Follow @ypedroo"></img>
+
 <a href="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ynoapedro)">
 
 ### Hi there, I'm Ynoa:panda_face:
