@@ -6,13 +6,9 @@
 <a> Come find me @: </a>&nbsp;&nbsp;
   
 <a href="https://twitter.com/intent/follow?screen_name=ypedrolm"><img src="https://img.shields.io/twitter/follow/ypedrolm.svg?label=Follow%20@ypedrolm" alt="Follow @ypedrolm"></img>
-
 [![Devto Badge](https://img.shields.io/badge/-ypedroo-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/ypedroo/)](https://dev.to/ypedroo/)
 [![Github Badge](https://img.shields.io/github/followers/ypedroo?style=social)](https://github.com/ypedroo/)
-
-<a href="https://img.shields.io/github/followers/ypedroo?style=social"><img src="https://img.shields.io/github/follow/ypedroo.svg?label=Follow%20@ypedroo" alt="Follow @ypedroo"></img>
-
-<a href="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ynoapedro)">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ynoapedro)](https://www.linkedin.com/in/ynoapedro)
 
 ### Hi there, I'm Ynoa:panda_face:
 
