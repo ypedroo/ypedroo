@@ -17,6 +17,9 @@
 - :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related 
 - :dancers: Also looking for cool projectos to join and help.
 
-[![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo)](https://github.com/anuraghazra/github-readme-stats)
+[![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ypedroo=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
