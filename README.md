@@ -19,7 +19,4 @@
 
 [![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypedroo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
