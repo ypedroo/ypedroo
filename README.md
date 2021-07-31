@@ -18,5 +18,7 @@
 - :dancers: Also looking for cool projectos to join and help.
 
 [![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ynoa Pedro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ypedroo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
