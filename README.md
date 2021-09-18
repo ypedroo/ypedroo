@@ -1,6 +1,6 @@
 </p>
 <p align='center'>
-   <img src="./logo/logo.png" width="300" height="300">
+   <img src="./logo/new_logo.png" width="300" height="300">
 </p>
 <p align='center'>
 <a> Places where you can find me: </a>&nbsp;&nbsp;
