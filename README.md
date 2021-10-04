@@ -16,7 +16,7 @@
 - 🔭 Working @ Done IT
 - 🌱 I’m currently learning and working with .NET, Node.js and React.
 - :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related 
-- :dancers: Also looking for cool projectos to join and help.
+- :dancers: Also looking for cool projects to join and help.
 
 [![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
