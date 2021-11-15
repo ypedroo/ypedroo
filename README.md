@@ -13,7 +13,7 @@
 
 ### Hi there, I'm Ynoa he/him/his:panda_face:
 
-- 🔭 Working @ Done IT
+- 🔭 Working @ Done IT and Impulso
 - 🌱 I’m currently learning and working with .NET, Node.js and React.
 - :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related 
 - :dancers: Also looking for cool projects to join and help.
