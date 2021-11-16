@@ -17,7 +17,6 @@
 - 🌱 I’m currently learning and working with .NET, Node.js and React.
 - :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related 
 - :dancers: Also looking for cool projects to join and help.
-<div align='center'>
+   
 [![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
