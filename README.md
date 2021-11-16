@@ -5,7 +5,8 @@
 <p align='center'>
 <a align='center'>
 <a> Places where you can find me: </a>&nbsp;&nbsp;
- 
+ <div align='center'>
+    
 [![Devto Badge](https://img.shields.io/badge/-ypedroo-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/ypedroo/)](https://dev.to/ypedroo/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ynoapedro)](https://www.linkedin.com/in/ynoapedro)
 [![Github Badge](https://img.shields.io/github/followers/ypedroo?style=social)](https://github.com/ypedroo/)
@@ -13,10 +14,12 @@
 
 ### Hi there, I'm Ynoa he/him/his:panda_face:
 
-- 🔭 Working @ Done IT and Impulso
-- 🌱 I’m currently learning and working with .NET, Node.js and React.
-- :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related 
-- :dancers: Also looking for cool projects to join and help.
+🔭 Hacking @ Done IT and Impulso<br/>
+🌱 I’m currently learning and working with .NET, Node.js and React.<br/>
+:scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related <br/>
+:dancers: Also looking for cool projects to join and help.<br/>
    
 [![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+   <br/>
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+   </div>
