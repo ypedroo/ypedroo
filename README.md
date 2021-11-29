@@ -1,6 +1,6 @@
 </p>
 <p align='center'>
-   <img src="./logo/Ynoa Pedro.gif" width="200" height="200">
+   <img src="./logo/logo.gif" width="200" height="200">
 </p>
 <p align='center'>
 <a align='center'>
