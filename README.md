@@ -14,7 +14,7 @@
 
 ### Hi there, I'm Ynoa he/him/his:panda_face:
 
-🔭 Coding stuff @ Done IT and Impulso Network <br/>
+🔭 Coding stuff @ Done IT and Dev.pro <br/>
 🌱 I’m currently learning and working with .NET, Node.js and React.<br/>
 :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related <br/>
 :dancers: Also looking for cool projects to join and help.<br/>
