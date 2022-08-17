@@ -21,41 +21,29 @@
 ⚒️ C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 95 Contributions in the Year 2022
- > 
-> 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 79 Public Repositories 
- > 
-> 🔑 68 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    114 commits    ████████░░░░░░░░░░░░░░░░░   34.55% 
-🌆 Daytime    142 commits    ██████████░░░░░░░░░░░░░░░   43.03% 
-🌃 Evening    71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.52% 
+🌞 Morning    114 commits    ████████░░░░░░░░░░░░░░░░░   34.44% 
+🌆 Daytime    143 commits    ██████████░░░░░░░░░░░░░░░   43.2% 
+🌃 Evening    71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.45% 
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       69 commits     █████░░░░░░░░░░░░░░░░░░░░   20.91% 
-Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Wednesday    40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Friday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
-Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Sunday       68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.61%
+Monday       69 commits     █████░░░░░░░░░░░░░░░░░░░░   20.85% 
+Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+Wednesday    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39% 
+Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Friday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
+Saturday     30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.06% 
+Sunday       68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.54%
 
 ```
 
@@ -105,7 +93,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 16:47:31 UTC
+ Last Updated on 17/08/2022 16:59:37 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
