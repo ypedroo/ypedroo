@@ -15,11 +15,13 @@
 ### Hi there, I'm Ynoa he/him/his:panda_face:
 
 🔭 Coding stuff @ Done IT and Dev.Pro <br/>
-🌱 I’m currently learning and working with .NET, Node.js and React.<br/>
+🌱 I’m currently learning and working with Dotnet, Node.js and React.<br/>
 :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related <br/>
 :dancers: Also looking for cool projects to join and help.<br/>
-   
-[![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+⚒️ C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
+<br/>
+[![Ynoa Pedro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ypedro)](https://github.com/anuraghazra/github-readme-stats)
+[![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
    <br/>
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
