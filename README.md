@@ -21,16 +21,16 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    114 commits    ████████░░░░░░░░░░░░░░░░░   34.34% 
-🌆 Daytime    144 commits    ██████████░░░░░░░░░░░░░░░   43.37% 
-🌃 Evening    71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.39% 
+🌞 Morning    114 commits    ████████░░░░░░░░░░░░░░░░░   34.23% 
+🌆 Daytime    145 commits    ███████████░░░░░░░░░░░░░░   43.54% 
+🌃 Evening    71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.32% 
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
 ```
@@ -62,7 +62,7 @@ Windows                  15 hrs 11 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 17:11:31 UTC
+ Last Updated on 17/08/2022 18:55:53 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
