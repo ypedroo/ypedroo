@@ -18,7 +18,7 @@
 🌱 I’m currently learning and working with Dotnet, Node.js and React.<br/>
 :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related <br/>
 :dancers: Also looking for cool projects to join and help.<br/>
-⚒️ C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
+⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2042%20mins-blue)
