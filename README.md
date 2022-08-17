@@ -20,7 +20,6 @@
 :dancers: Also looking for cool projects to join and help.<br/>
 ⚒️ C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
-[![Ynoa Pedro's github stats](https://github-readme-stats.vercel.app/api?username=ypedroo&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-   <br/>
+
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
