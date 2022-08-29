@@ -21,7 +21,7 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,18 +42,18 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       12 hrs 41 mins      ██████████████████░░░░░░░   74.67% 
-SQL                      3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.7% 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
-PowerShell               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
+C#                       12 hrs 31 mins      ██████████████████░░░░░░░   74.49% 
+SQL                      3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94% 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
+PowerShell               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
 Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
 
 🔥 Editors: 
-Rider                    16 hrs 45 mins      ████████████████████████░   98.63% 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37%
+Rider                    16 hrs 36 mins      ████████████████████████░   98.85% 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
 💻 Operating System: 
-Windows                  16 hrs 59 mins      █████████████████████████   100.0%
+Windows                  16 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
@@ -62,7 +62,7 @@ Windows                  16 hrs 59 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/08/2022 18:56:16 UTC
+ Last Updated on 29/08/2022 18:55:28 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
