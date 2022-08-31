@@ -20,17 +20,17 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    115 commits    ████████░░░░░░░░░░░░░░░░░   34.12% 
-🌆 Daytime    148 commits    ███████████░░░░░░░░░░░░░░   43.92% 
-🌃 Evening    71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.07% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
+🌞 Morning    117 commits    ████████░░░░░░░░░░░░░░░░░   33.72% 
+🌆 Daytime    149 commits    ██████████░░░░░░░░░░░░░░░   42.94% 
+🌃 Evening    78 commits     █████░░░░░░░░░░░░░░░░░░░░   22.48% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 ```
 
@@ -61,7 +61,7 @@ Windows                  18 hrs 56 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 18:57:17 UTC
+ Last Updated on 31/08/2022 18:54:18 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
