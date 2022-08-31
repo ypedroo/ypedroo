@@ -17,7 +17,6 @@
 🔭 Coding stuff @ Done IT and Dev.Pro <br/>
 🌱 I’m currently learning and working with Dotnet, Node.js and React.<br/>
 :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related <br/>
-:dancers: Also looking for cool projects to join and help.<br/>
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
