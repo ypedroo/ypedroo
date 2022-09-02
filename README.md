@@ -20,7 +20,7 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C056%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,18 +41,18 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       13 hrs 49 mins      ██████████████████░░░░░░░   73.0% 
-SQL                      4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   22.51% 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
-PowerShell               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+C#                       11 hrs 57 mins      █████████████████░░░░░░░░   70.53% 
+SQL                      3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.72% 
+YAML                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
 
 🔥 Editors: 
-Rider                    18 hrs 45 mins      ████████████████████████░   98.98% 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+Rider                    16 hrs 35 mins      ████████████████████████░   97.84% 
+VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
 
 💻 Operating System: 
-Windows                  18 hrs 56 mins      █████████████████████████   100.0%
+Windows                  16 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -61,7 +61,7 @@ Windows                  18 hrs 56 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 18:54:18 UTC
+ Last Updated on 02/09/2022 18:55:45 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
