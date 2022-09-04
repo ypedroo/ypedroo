@@ -20,48 +20,16 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    117 commits    ████████░░░░░░░░░░░░░░░░░   33.43% 
-🌆 Daytime    152 commits    ██████████░░░░░░░░░░░░░░░   43.43% 
-🌃 Evening    78 commits     █████░░░░░░░░░░░░░░░░░░░░   22.29% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-C#                       8 hrs 38 mins       ██████████████████░░░░░░░   74.06% 
-SQL                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.31% 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
-
-🔥 Editors: 
-Rider                    11 hrs 28 mins      ████████████████████████░   98.3% 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
-
-💻 Operating System: 
-Windows                  11 hrs 40 mins      █████████████████████████   100.0%
-
-```
 
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:52:49 UTC
+ Last Updated on 04/09/2022 18:56:14 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
