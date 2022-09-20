@@ -20,7 +20,7 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C063%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C063%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,15 +41,16 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       8 mins              ███████████████████░░░░░░   76.35% 
-SQL                      2 mins              █████░░░░░░░░░░░░░░░░░░░░   22.59% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
+SQL                      20 mins             ████████████░░░░░░░░░░░░░   50.13% 
+YAML                     11 mins             ███████░░░░░░░░░░░░░░░░░░   29.09% 
+C#                       8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.73% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-Rider                    10 mins             █████████████████████████   100.0%
+Rider                    40 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.0%
+Windows                  40 mins             █████████████████████████   100.0%
 
 ```
 
@@ -58,7 +59,7 @@ Windows                  10 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2022 19:01:47 UTC
+ Last Updated on 20/09/2022 18:59:54 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
