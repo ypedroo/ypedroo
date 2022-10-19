@@ -20,7 +20,7 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C084%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C086%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,8 +41,8 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       5 hrs 3 mins        █████████████░░░░░░░░░░░░   52.34% 
-SQL                      4 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.13% 
+C#                       5 hrs 3 mins        █████████████░░░░░░░░░░░░   52.33% 
+SQL                      4 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.14% 
 JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
 YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
 HTTP Request             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
@@ -60,7 +60,7 @@ Windows                  9 hrs 40 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 19:10:44 UTC
+ Last Updated on 19/10/2022 19:11:19 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
