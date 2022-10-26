@@ -20,7 +20,7 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C091%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C091%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,17 +41,17 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      4 hrs 2 mins        █████████████████░░░░░░░░   70.43% 
-C#                       1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.94% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6% 
+SQL                      4 hrs 33 mins       █████████████████░░░░░░░░   70.18% 
+C#                       1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   29.24% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
 CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-Rider                    5 hrs 44 mins       █████████████████████████   100.0%
+Rider                    6 hrs 29 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.0%
+Windows                  6 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
@@ -60,7 +60,7 @@ Windows                  5 hrs 44 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/10/2022 19:30:24 UTC
+ Last Updated on 26/10/2022 18:55:40 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
