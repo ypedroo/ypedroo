@@ -20,7 +20,7 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C102%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C104%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,17 +41,17 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SQL                      5 hrs 4 mins        █████████████░░░░░░░░░░░░   51.6% 
-C#                       4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   42.17% 
-Config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
+SQL                      6 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.78% 
+C#                       5 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.73% 
+textmate                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+Config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
+Csproj                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
 🔥 Editors: 
-Rider                    9 hrs 49 mins       █████████████████████████   100.0%
+Rider                    12 hrs 25 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 49 mins       █████████████████████████   100.0%
+Windows                  12 hrs 25 mins      █████████████████████████   100.0%
 
 ```
 
@@ -60,7 +60,7 @@ Windows                  9 hrs 49 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/10/2022 18:58:50 UTC
+ Last Updated on 01/11/2022 18:58:58 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
