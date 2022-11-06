@@ -20,7 +20,7 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C107%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C107%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -41,17 +41,17 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-C#                       5 hrs 12 mins       █████████████░░░░░░░░░░░░   52.0% 
-SQL                      3 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.69% 
-textmate                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-Config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
-Csproj                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
+SQL                      5 hrs 16 mins       █████████████░░░░░░░░░░░░   53.75% 
+C#                       4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.11% 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
+textmate                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+Csproj                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
 
 🔥 Editors: 
-Rider                    10 hrs 1 min        █████████████████████████   100.0%
+Rider                    9 hrs 48 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 1 min        █████████████████████████   100.0%
+Windows                  9 hrs 48 mins       █████████████████████████   100.0%
 
 ```
 
@@ -60,7 +60,7 @@ Windows                  10 hrs 1 min        ███████████�
 ![Chart not found](https://raw.githubusercontent.com/ypedroo/ypedroo/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 18:49:52 UTC
+ Last Updated on 06/11/2022 18:52:36 UTC
 <!--END_SECTION:waka-->
 Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
    </div>
