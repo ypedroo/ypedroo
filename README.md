@@ -12,7 +12,7 @@
 [![Github Badge](https://img.shields.io/github/followers/ypedroo?style=social)](https://github.com/ypedroo/)
 <a href="https://twitter.com/intent/follow?screen_name=ypedrolm"><img src="https://img.shields.io/twitter/follow/ypedrolm.svg?label=Follow%20@ypedrolm" alt="Follow @ypedrolm"></img> </a>
 
-### Hi there, I'm Ynoa he/him/his:panda_face:
+### Hi there, I'm Ynoa he/him/his
 
 🔭 Coding stuff @ Dev.Pro<br/>
 🌱 I’m currently learning and working with Dotnet, Node.js and React.<br/>
