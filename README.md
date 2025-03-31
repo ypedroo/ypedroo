@@ -15,7 +15,7 @@
 ### Hi there, I'm Ynoa he/him/his
 
 🔭 Coding stuff @ Dev.Pro<br/>
-🌱 I’m currently learning and working with Dotnet, Node.js and React.<br/>
+🌱 I’m currently learning and working with .NET, Node.js and React.<br/>
 :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related <br/>
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
