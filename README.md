@@ -17,7 +17,7 @@
 🔭 Coding stuff @ Dev.Pro<br/>
 🌱 I’m currently learning and working with .NET, Node.js and React.<br/>
 :scream_cat: Feel free to reach out to me for anything tech, coffe, brew or cats related <br/>
-⚒️ Skills: C#, JavaScript, TypeScript, SQL, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
+⚒️ Skills: C#, JavaScript, TypeScript, SQL, Go, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C108%20hrs%2031%20mins-blue)
