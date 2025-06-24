@@ -20,6 +20,4 @@
 ⚒️ Skills: C#, JavaScript, TypeScript, SQL, Go, AWS, Azure, GCP, Python, Shell, PowerShell and more<br/>
 <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C108%20hrs%2031%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+[![wakatime](https://wakatime.com/badge/user/d8b85639-5e37-4da1-8ca4-b526c006f97d.svg)](https://wakatime.com/@d8b85639-5e37-4da1-8ca4-b526c006f97d)
